@@ -1,0 +1,41 @@
+{
+  "build": "1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/schrodinger/win-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "C:\\Mambaforge\\pkgs\\mtz2ccp4_px-1.1-1",
+  "features": "",
+  "files": [
+    "Library/bin/mtz2ccp4_px.exe"
+  ],
+  "fn": "mtz2ccp4_px-1.1-1.tar.bz2",
+  "license": "proprietary - Schrodinger",
+  "link": {
+    "source": "C:\\Mambaforge\\pkgs\\mtz2ccp4_px-1.1-1",
+    "type": 1
+  },
+  "md5": "3cd5cd09ffe70f588aa5e5f5fc30b87a",
+  "name": "mtz2ccp4_px",
+  "package_tarball_full_path": "C:\\Mambaforge\\pkgs\\mtz2ccp4_px-1.1-1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/mtz2ccp4_px.exe",
+        "path_type": "hardlink",
+        "sha256": "50958e6554aa49aaa3b55c70f8296da5bdea907c92e81379b687b11f782e40a7",
+        "sha256_in_prefix": "50958e6554aa49aaa3b55c70f8296da5bdea907c92e81379b687b11f782e40a7",
+        "size_in_bytes": 2821632
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "77faa014a4a70c1a029f7035627c40ce19e5f5790b97e712ac6b363dc8f8d1b8",
+  "size": 859907,
+  "subdir": "win-64",
+  "timestamp": 1712419957000,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/t/sc-a2280975-4d5c-49ed-badb-f79a6935e80a/schrodinger/win-64/mtz2ccp4_px-1.1-1.tar.bz2",
+  "version": "1.1"
+}

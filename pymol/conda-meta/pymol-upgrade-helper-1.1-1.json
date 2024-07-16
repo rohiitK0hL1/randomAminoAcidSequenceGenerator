@@ -1,0 +1,48 @@
+{
+  "build": "1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/schrodinger/win-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "C:\\Mambaforge\\pkgs\\pymol-upgrade-helper-1.1-1",
+  "features": "",
+  "files": [
+    "Conda-Prompt.bat",
+    "Upgrade-PyMOL.bat"
+  ],
+  "fn": "pymol-upgrade-helper-1.1-1.tar.bz2",
+  "license": "proprietary - Schrodinger",
+  "link": {
+    "source": "C:\\Mambaforge\\pkgs\\pymol-upgrade-helper-1.1-1",
+    "type": 1
+  },
+  "md5": "3419899b128952aab82fa3b7595433b7",
+  "name": "pymol-upgrade-helper",
+  "package_tarball_full_path": "C:\\Mambaforge\\pkgs\\pymol-upgrade-helper-1.1-1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Conda-Prompt.bat",
+        "path_type": "hardlink",
+        "sha256": "627ce3c1537e208e7af6cb6d222be264308f21c50a09d95ba428ad1420ea613d",
+        "sha256_in_prefix": "627ce3c1537e208e7af6cb6d222be264308f21c50a09d95ba428ad1420ea613d",
+        "size_in_bytes": 235
+      },
+      {
+        "_path": "Upgrade-PyMOL.bat",
+        "path_type": "hardlink",
+        "sha256": "926473c4ba3b571798c63014c52d420f3861be35bcc4e7dca42cf0dda6f62219",
+        "sha256_in_prefix": "926473c4ba3b571798c63014c52d420f3861be35bcc4e7dca42cf0dda6f62219",
+        "size_in_bytes": 193
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 1918,
+  "subdir": "win-64",
+  "timestamp": 1614861891000,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/schrodinger/win-64/pymol-upgrade-helper-1.1-1.tar.bz2",
+  "version": "1.1"
+}

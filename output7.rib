@@ -1,0 +1,204 @@
+title RIBOSOME
+
+default helix
+
+res gly  phi  72.0  psi -51.4
+
+res trp  phi  -3.1  psi 51.8
+
+res thr  phi  23.4  psi -18.0
+
+res lys  phi  84.9  psi 22.3
+
+res gln  phi  47.5  psi -78.2
+
+res pro  phi  63.0  psi 3.9
+
+res phe  phi  62.5  psi -33.9
+
+res tyr  phi  -60.3  psi 62.7
+
+res lys  phi  88.1  psi -57.9
+
+res met  phi  -36.6  psi 77.3
+
+res glu  phi  24.4  psi 75.2
+
+res met  phi  1.6  psi -42.4
+
+res ala  phi  23.6  psi -4.2
+
+res asp  phi  -6.3  psi 49.6
+
+res val  phi  48.0  psi -49.7
+
+res thr  phi  -29.9  psi 0.6
+
+res his  phi  -88.5  psi 58.8
+
+res ser  phi  -83.8  psi 0.0
+
+res lys  phi  64.9  psi -70.3
+
+res pro  phi  -73.9  psi 41.8
+
+res asp  phi  -1.6  psi 11.3
+
+res trp  phi  -23.0  psi 6.6
+
+res val  phi  -76.7  psi 7.7
+
+res trp  phi  -21.4  psi 71.1
+
+res lys  phi  -47.4  psi -82.9
+
+res gln  phi  44.0  psi 79.5
+
+res pro  phi  -67.8  psi -9.5
+
+res ser  phi  -45.7  psi -41.1
+
+res leu  phi  36.5  psi -68.8
+
+res glu  phi  55.1  psi -37.3
+
+res lys  phi  -32.6  psi -84.7
+
+res pro  phi  17.4  psi 38.5
+
+res met  phi  -83.9  psi 75.8
+
+res thr  phi  18.7  psi -26.3
+
+res ala  phi  39.6  psi -17.7
+
+res phe  phi  21.9  psi -39.1
+
+res ile  phi  -71.4  psi -89.6
+
+res gln  phi  -51.1  psi 13.7
+
+res ile  phi  82.3  psi 47.5
+
+res met  phi  -76.2  psi 71.4
+
+res his  phi  78.1  psi 89.6
+
+res trp  phi  68.4  psi -7.7
+
+res lys  phi  -60.7  psi 88.8
+
+res tyr  phi  21.2  psi 36.4
+
+res cys  phi  -51.3  psi -72.5
+
+res val  phi  -4.0  psi 13.8
+
+res gln  phi  63.7  psi -50.8
+
+res asn  phi  -32.3  psi -59.1
+
+res glu  phi  -43.9  psi 68.8
+
+res glu  phi  13.6  psi -35.2
+
+res met  phi  81.4  psi 51.4
+
+res val  phi  23.9  psi -76.5
+
+res val  phi  -29.8  psi 58.0
+
+res asn  phi  55.8  psi -56.2
+
+res gln  phi  45.2  psi -48.7
+
+res asn  phi  40.7  psi -63.0
+
+res met  phi  10.2  psi 49.5
+
+res asp  phi  -59.7  psi -8.5
+
+res ser  phi  79.7  psi -29.9
+
+res ile  phi  -79.8  psi -4.4
+
+res thr  phi  25.5  psi -56.0
+
+res phe  phi  -47.3  psi 60.5
+
+res ser  phi  50.3  psi 15.1
+
+res his  phi  14.9  psi -82.6
+
+res gly  phi  52.8  psi 15.8
+
+res asp  phi  63.9  psi -1.7
+
+res trp  phi  -11.9  psi -32.2
+
+res phe  phi  73.3  psi -11.9
+
+res arg  phi  74.7  psi -0.8
+
+res asn  phi  71.0  psi -50.0
+
+res asn  phi  -66.3  psi -12.6
+
+res gln  phi  -24.2  psi 57.8
+
+res arg  phi  -11.8  psi -24.2
+
+res trp  phi  68.9  psi -76.1
+
+res thr  phi  72.8  psi -3.6
+
+res met  phi  15.0  psi 35.3
+
+res tyr  phi  5.4  psi -22.8
+
+res ser  phi  -35.3  psi -45.9
+
+res met  phi  -83.7  psi 29.8
+
+res gln  phi  57.6  psi -52.1
+
+res pro  phi  -38.1  psi 3.1
+
+res ile  phi  -57.2  psi -38.3
+
+res glu  phi  -22.5  psi 13.6
+
+res leu  phi  -87.8  psi 19.6
+
+res trp  phi  12.8  psi 12.6
+
+res asn  phi  -60.3  psi 59.9
+
+res ile  phi  -16.8  psi -37.5
+
+res ser  phi  8.6  psi 46.3
+
+res pro  phi  -21.1  psi 10.5
+
+res thr  phi  -26.4  psi 74.0
+
+res cys  phi  7.4  psi 57.5
+
+res thr  phi  -50.9  psi 16.5
+
+res ala  phi  22.7  psi 30.6
+
+res ser  phi  86.8  psi 0.7
+
+res his  phi  50.4  psi -52.1
+
+res leu  phi  19.3  psi -11.5
+
+res pro  phi  17.7  psi 60.5
+
+res val  phi  -66.1  psi 8.9
+
+res gly  phi  -60.5  psi 16.1
+
+res tyr  phi  -50.5  psi -23.2
+

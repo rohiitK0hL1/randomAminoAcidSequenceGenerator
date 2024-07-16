@@ -1,0 +1,40 @@
+{
+  "build": "0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/schrodinger/win-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "C:\\Mambaforge\\pkgs\\libholoplaycore-0.1.0_rc4-0",
+  "features": "",
+  "files": [
+    "Library/bin/HoloPlayCore.dll"
+  ],
+  "fn": "libholoplaycore-0.1.0_rc4-0.tar.bz2",
+  "license": "",
+  "link": {
+    "source": "C:\\Mambaforge\\pkgs\\libholoplaycore-0.1.0_rc4-0",
+    "type": 1
+  },
+  "md5": "7c468b7f5cf08aaa721c343bdefacd07",
+  "name": "libholoplaycore",
+  "package_tarball_full_path": "C:\\Mambaforge\\pkgs\\libholoplaycore-0.1.0_rc4-0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/HoloPlayCore.dll",
+        "path_type": "hardlink",
+        "sha256": "4b21df21c631495515a68703f8071a4ddb76852c043c9605429d18b3c5dd2cf7",
+        "sha256_in_prefix": "4b21df21c631495515a68703f8071a4ddb76852c043c9605429d18b3c5dd2cf7",
+        "size_in_bytes": 636928
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 305502,
+  "subdir": "win-64",
+  "timestamp": 1588092030000,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/t/sc-a2280975-4d5c-49ed-badb-f79a6935e80a/schrodinger/win-64/libholoplaycore-0.1.0_rc4-0.tar.bz2",
+  "version": "0.1.0_rc4"
+}

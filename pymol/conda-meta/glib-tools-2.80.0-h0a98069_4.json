@@ -1,0 +1,87 @@
+{
+  "build": "h0a98069_4",
+  "build_number": 4,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "libglib 2.80.0 h39d0aa6_4",
+    "libintl >=0.22.5,<1.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139"
+  ],
+  "extracted_package_dir": "C:\\Mambaforge\\pkgs\\glib-tools-2.80.0-h0a98069_4",
+  "features": "",
+  "files": [
+    "Library/bin/gdbus.exe",
+    "Library/bin/gio-querymodules.exe",
+    "Library/bin/gio.exe",
+    "Library/bin/glib-compile-schemas.exe",
+    "Library/bin/gresource.exe",
+    "Library/bin/gsettings.exe"
+  ],
+  "fn": "glib-tools-2.80.0-h0a98069_4.conda",
+  "license": "LGPL-2.1-or-later",
+  "link": {
+    "source": "C:\\Mambaforge\\pkgs\\glib-tools-2.80.0-h0a98069_4",
+    "type": 1
+  },
+  "md5": "44cd44c004db728bf5788c1d46ce7334",
+  "name": "glib-tools",
+  "package_tarball_full_path": "C:\\Mambaforge\\pkgs\\glib-tools-2.80.0-h0a98069_4.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/gdbus.exe",
+        "path_type": "hardlink",
+        "sha256": "88dea5de3ceb7fb8bc591ad633008982759565b4f9785c9917111ebf45b54b2b",
+        "sha256_in_prefix": "88dea5de3ceb7fb8bc591ad633008982759565b4f9785c9917111ebf45b54b2b",
+        "size_in_bytes": 39936
+      },
+      {
+        "_path": "Library/bin/gio-querymodules.exe",
+        "path_type": "hardlink",
+        "sha256": "e33fb0b194ac32bac4d1b5b9912de98cdc251a2d6ae6cf0c3e23c0ca0936fb25",
+        "sha256_in_prefix": "e33fb0b194ac32bac4d1b5b9912de98cdc251a2d6ae6cf0c3e23c0ca0936fb25",
+        "size_in_bytes": 12800
+      },
+      {
+        "_path": "Library/bin/gio.exe",
+        "path_type": "hardlink",
+        "sha256": "b13fa1978ba6f719b29df09459bf6d1970eae90086d4259b45dda4c63059a0dd",
+        "sha256_in_prefix": "b13fa1978ba6f719b29df09459bf6d1970eae90086d4259b45dda4c63059a0dd",
+        "size_in_bytes": 71680
+      },
+      {
+        "_path": "Library/bin/glib-compile-schemas.exe",
+        "path_type": "hardlink",
+        "sha256": "5f445984b66f6789bfc0d88b191aace24d96f3db2f0fef581a5f639593f71321",
+        "sha256_in_prefix": "5f445984b66f6789bfc0d88b191aace24d96f3db2f0fef581a5f639593f71321",
+        "size_in_bytes": 45056
+      },
+      {
+        "_path": "Library/bin/gresource.exe",
+        "path_type": "hardlink",
+        "sha256": "a808871827ca901efb65ea8cb43b3d923434176263fdd998486c9a9e51bfa981",
+        "sha256_in_prefix": "a808871827ca901efb65ea8cb43b3d923434176263fdd998486c9a9e51bfa981",
+        "size_in_bytes": 14848
+      },
+      {
+        "_path": "Library/bin/gsettings.exe",
+        "path_type": "hardlink",
+        "sha256": "80ad9bd303ae43a4049331c768a5468cbd6c52abfdd8d5a0b34a87aa5dd10ca3",
+        "sha256_in_prefix": "80ad9bd303ae43a4049331c768a5468cbd6c52abfdd8d5a0b34a87aa5dd10ca3",
+        "size_in_bytes": 24576
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "319a2c785a992eaecc37d2280b4bb80096020e59382ec7193356f124d987aef1",
+  "size": 94161,
+  "subdir": "win-64",
+  "timestamp": 1712590633000,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/glib-tools-2.80.0-h0a98069_4.conda",
+  "version": "2.80.0"
+}

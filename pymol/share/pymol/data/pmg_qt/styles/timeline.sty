@@ -1,0 +1,299 @@
+/* PYMOL 3.0 TIMELINE STYLE */
+
+QDialog
+{
+    background-color: #333333;
+}
+
+QWidget#ProxyFrame
+{
+    background-color: #2E2E2E;
+}
+
+QWidget#Timeline
+{
+    background-color: #333333;
+}
+
+QWidget#TimelineTrackRecords
+{
+    background-color: #333333;
+}
+
+QLabel
+{
+    color: #E8E8E8;
+}
+
+QLabel#TimelineBetaLabel
+{
+    color: #818181;
+}
+
+QPushButton
+{
+    background: transparent;
+    border: 1px solid #747474;
+    border-radius:  3px;
+    padding: 4px 7px;
+    color: #E8E8E8;
+    font-size: 10px;
+}
+
+QPushButton#Primary
+{
+    border-radius: 2px;
+    background: #464646;
+    padding: 4px 7px 4px 7px;
+    margin-right: 5px;
+    margin-top: 2px;
+}
+
+QPushButton#Primary:disabled
+{
+    background: #363636;
+    color: #787878;
+}
+
+QPushButton[borderless=true]
+{
+    border: 0px;
+    padding: 1px 1px;
+    color: #E8E8E8;
+}
+
+QPushButton[noind=true]::menu-indicator
+{
+    width: 0px;
+}
+
+QPushButton[activated=false]
+{
+    color: #E8E8E8;
+}
+
+QPushButton[activated=true]
+{
+    color: #60B0DC;
+}
+
+QPushButton:hover
+{
+    border: 1px solid #60B0DC;
+}
+
+QTabWidget::pane
+{
+    margin: 0px,0px,0px,0px;
+    border: 0px solid #343434;
+    padding: 0px,0px,0px,0px;
+}
+
+QPushButton::menu-indicator
+{
+    subcontrol-position: right center;
+    left: -10px;
+}
+
+QTabWidget::tab-bar
+{
+    left: 0; /* keeps the tabs at the left side */
+}
+
+QLabel#TabLabel
+{
+    font-weight: bold;
+    font-size: 12px;
+    padding: 5px;
+}
+
+QLabel#TabLabel[selected_tab=true]
+{
+    color: #c1c1c1;
+    font-weight: bold;
+}
+
+QLabel#TabLabel[selected_tab=false]
+{
+    color: #a0a0a0;
+    font-weight: normal;
+}
+
+QTabBar::tab
+{
+    height: 20px;
+    padding: 3px;
+    border: 1px solid #484848;
+    border-left: 0px;
+    margin: 0px;
+}
+
+QTabBar::tab#append_tab
+{
+    width: 20px;
+}
+
+QTabBar::tab:selected
+{
+    color: #c1c1c1;
+    color: red;
+    background: #343434;
+}
+
+QTabBar::tab:!selected
+{
+    color: #a0a0a0;
+    background: #222222;
+}
+
+QLabel#TimelinePlayBtnLabel
+{
+    font-style: italic;
+}
+
+QScrollBar
+{
+    background:     #222222;
+    border-radius:  10px;
+    border:         5px;
+}
+
+QScrollBar::handle
+{
+    margin: 2px 0px 2px 0px;
+    background:     #494949;
+    border-radius: 5px;
+    width: 10px;
+}
+
+QScrollBar::handle:hover
+{
+    background:     #696969;
+}
+
+QScrollBar::sub-line
+{
+    border:         none;
+}
+
+QScrollBar::add-line
+{
+    border:         none;
+}
+
+QScrollBar::right-arrow:horizontal, QScrollBar::left-arrow:horizontal
+{
+      border: none;
+      background: none;
+      color: none;
+}
+
+QScrollBar::sub-page:horizontal {
+    background: #222222;
+}
+
+QScrollBar::add-page:horizontal {
+    background: #222222;
+}
+
+QLabel#TimelineControlsTimeLabel
+{
+    font-weight:    bold;
+}
+
+PyMOLMenu
+{
+    background:     #4C4C99;
+}
+
+PyMOLMenu::item::!first
+{
+    padding: 5px 5px 5px 10px;
+    background: black;
+    color: #cecece;
+    margin-left: 1px;
+    margin-right: 1px;
+}
+
+PyMOLMenu::item::!enabled
+{
+    color: #787878;
+}
+
+PyMOLMenu::item:selected
+{
+    background-color: #4D4D4D;
+    color: rgb(255, 255, 255);
+}
+
+QLabel#PyMOLMenuLabel
+{
+    padding: 2px 2px 2px 2px;
+    font-size:      12px;
+    font-weight:    bold;
+}
+
+QLabel#timeline-inspector-label
+{
+    color: #6e6e6e;
+    font-size: 16px;
+}
+
+QTreeView
+{
+    background-color: #333333;
+    color: #9c9c9c;
+    font-size: 12px;
+    outline: none; /* Removes dotted outline (1/2) */
+    border: none;
+}
+
+QTreeView::item
+{
+    padding: 2px;
+    border: 2px solid #333333; /* Mocks spacing between QTreeView items */
+}
+
+QTreeView::item:!selected:focus
+{
+    background:transparent; /* Removes dotted outline (2/2) */
+}
+
+QComboBox#InspectorFieldScenesBox
+{
+    background-color: #333333;
+    color: #bbbbbb;
+    height: 25px;
+}
+
+QLineEdit
+{
+    background-color: #333333;
+    color: #bbbbbb;
+    font-size: 12px;
+    text-align: center;
+}
+
+QPushButton#FieldsImageAndLabelButton
+{
+    border-width: 1px;
+    background-color: #464646;
+    font-size: 10px;
+}
+
+QPushButton#InspectorColorPickerField
+{
+    background-color: #464646;
+    text-align: left;
+}
+
+/*
+PyMOLMenuTitle
+{
+    color:          red;
+    background:     #4C4C99;
+    margin-left:    5px;
+    border-bottom:  1px;
+    border-color:   #404080;
+}
+*/

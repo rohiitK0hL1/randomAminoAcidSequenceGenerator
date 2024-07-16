@@ -1,0 +1,42 @@
+{
+  "build": "0",
+  "build_number": 0,
+  "channel": "file:///C:/Mambaforge/conda-bld/win-64",
+  "constrains": [],
+  "depends": [
+    "apbs",
+    "biopython",
+    "collada2gltf",
+    "mengine",
+    "mpeg_encode",
+    "pdb2pqr >=2.1.2*",
+    "pycollada",
+    "pymol >=3.0.2,<4.0a0",
+    "pymol-upgrade-helper",
+    "pymol-web-examples >=2.4"
+  ],
+  "extracted_package_dir": "C:\\Mambaforge\\pkgs\\pymol-bundle-3.0.2-0",
+  "features": "",
+  "files": [],
+  "fn": "pymol-bundle-3.0.2-0.tar.bz2",
+  "license": "",
+  "link": {
+    "source": "C:\\Mambaforge\\pkgs\\pymol-bundle-3.0.2-0",
+    "type": 1
+  },
+  "md5": "bf362a556bbb02090fc566061bf17f0e",
+  "name": "pymol-bundle",
+  "package_tarball_full_path": "C:\\Mambaforge\\pkgs\\pymol-bundle-3.0.2-0.tar.bz2",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "pymol-bundle",
+  "sha256": "83e9102933d9ae0af68596a9ee4d97b336d87d39d5fd1ca47ed2ab2ee1701692",
+  "size": 18603,
+  "subdir": "win-64",
+  "timestamp": 1712762008000,
+  "track_features": "",
+  "url": "file:///C:/Mambaforge/conda-bld/win-64/pymol-bundle-3.0.2-0.tar.bz2",
+  "version": "3.0.2"
+}

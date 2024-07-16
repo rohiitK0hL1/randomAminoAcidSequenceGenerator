@@ -1,0 +1,39 @@
+{
+  "build": "1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/schrodinger/win-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "C:\\Mambaforge\\pkgs\\apbs-1.5-1",
+  "features": "",
+  "files": [
+    "Library/bin/apbs.exe"
+  ],
+  "fn": "apbs-1.5-1.tar.bz2",
+  "license": "BSD-like",
+  "link": {
+    "source": "C:\\Mambaforge\\pkgs\\apbs-1.5-1",
+    "type": 1
+  },
+  "md5": "d96bf8ff23f4d4b59cb9383a498f1afe",
+  "name": "apbs",
+  "package_tarball_full_path": "C:\\Mambaforge\\pkgs\\apbs-1.5-1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/apbs.exe",
+        "path_type": "hardlink",
+        "sha256": "b0bc14a3fb5fde620252c12229436012e2a386dee93138543e96a6e241732246",
+        "sha256_in_prefix": "b0bc14a3fb5fde620252c12229436012e2a386dee93138543e96a6e241732246",
+        "size_in_bytes": 657920
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 272658,
+  "subdir": "win-64",
+  "track_features": "",
+  "url": "https://conda.anaconda.org/schrodinger/win-64/apbs-1.5-1.tar.bz2",
+  "version": "1.5"
+}

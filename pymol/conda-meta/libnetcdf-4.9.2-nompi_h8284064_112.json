@@ -1,0 +1,224 @@
+{
+  "build": "nompi_h8284064_112",
+  "build_number": 112,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "blosc >=1.21.4,<2.0a0",
+    "bzip2 >=1.0.8,<2.0a0",
+    "hdf4 >=4.2.15,<4.2.16.0a0",
+    "hdf5 >=1.14.2,<1.14.4.0a0",
+    "libaec >=1.0.6,<2.0a0",
+    "libcurl >=8.2.1,<9.0a0",
+    "libxml2 >=2.11.5,<3.0.0a0",
+    "libzip >=1.10.1,<2.0a0",
+    "libzlib >=1.2.13,<1.3.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139",
+    "zlib",
+    "zstd >=1.5.5,<1.6.0a0"
+  ],
+  "extracted_package_dir": "C:\\Mambaforge\\pkgs\\libnetcdf-4.9.2-nompi_h8284064_112",
+  "features": "",
+  "files": [
+    "Library/bin/nc-config",
+    "Library/bin/nccopy.exe",
+    "Library/bin/ncdump.exe",
+    "Library/bin/ncgen.exe",
+    "Library/bin/ncgen3.exe",
+    "Library/bin/netcdf.dll",
+    "Library/include/netcdf.h",
+    "Library/include/netcdf_aux.h",
+    "Library/include/netcdf_dispatch.h",
+    "Library/include/netcdf_filter.h",
+    "Library/include/netcdf_filter_build.h",
+    "Library/include/netcdf_json.h",
+    "Library/include/netcdf_mem.h",
+    "Library/include/netcdf_meta.h",
+    "Library/lib/cmake/netCDF/netCDFConfig.cmake",
+    "Library/lib/cmake/netCDF/netCDFConfigVersion.cmake",
+    "Library/lib/cmake/netCDF/netCDFTargets-release.cmake",
+    "Library/lib/cmake/netCDF/netCDFTargets.cmake",
+    "Library/lib/libnetcdf.settings",
+    "Library/lib/netcdf.lib",
+    "Library/lib/pkgconfig/netcdf.pc"
+  ],
+  "fn": "libnetcdf-4.9.2-nompi_h8284064_112.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Mambaforge\\pkgs\\libnetcdf-4.9.2-nompi_h8284064_112",
+    "type": 1
+  },
+  "md5": "d13288269ee4de9079261a31028f9954",
+  "name": "libnetcdf",
+  "package_tarball_full_path": "C:\\Mambaforge\\pkgs\\libnetcdf-4.9.2-nompi_h8284064_112.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/nc-config",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "D:/bld/libnetcdf_1693581668824/_h_env",
+        "sha256": "23df6c7accb258cf836026a8a741357c45b392f8d881b30a9e0f32ca545d874a",
+        "sha256_in_prefix": "eefe3300cf7bc2f21b1da24c845b78d8ee81ef23577a6c892c492077c8ad352e",
+        "size_in_bytes": 9230
+      },
+      {
+        "_path": "Library/bin/nccopy.exe",
+        "path_type": "hardlink",
+        "sha256": "c307d7e8be4e0d59c6d7a967de3b8442efe8f3979a24f6948e79d7a6445476b6",
+        "sha256_in_prefix": "c307d7e8be4e0d59c6d7a967de3b8442efe8f3979a24f6948e79d7a6445476b6",
+        "size_in_bytes": 53248
+      },
+      {
+        "_path": "Library/bin/ncdump.exe",
+        "path_type": "hardlink",
+        "sha256": "1d2504da2d205dc7a7abfc613544ad82737a81ffd0b5b0e43434afb10d432891",
+        "sha256_in_prefix": "1d2504da2d205dc7a7abfc613544ad82737a81ffd0b5b0e43434afb10d432891",
+        "size_in_bytes": 75776
+      },
+      {
+        "_path": "Library/bin/ncgen.exe",
+        "path_type": "hardlink",
+        "sha256": "2823ecd95ab38d1f6bafe991030844384b1c70b2d08727a00e1b5e1cc1ec3441",
+        "sha256_in_prefix": "2823ecd95ab38d1f6bafe991030844384b1c70b2d08727a00e1b5e1cc1ec3441",
+        "size_in_bytes": 177152
+      },
+      {
+        "_path": "Library/bin/ncgen3.exe",
+        "path_type": "hardlink",
+        "sha256": "9eba713b2e00c942d8b9a3845cf79f4ce19c1eea2580d6f94462e9124c64151c",
+        "sha256_in_prefix": "9eba713b2e00c942d8b9a3845cf79f4ce19c1eea2580d6f94462e9124c64151c",
+        "size_in_bytes": 86528
+      },
+      {
+        "_path": "Library/bin/netcdf.dll",
+        "path_type": "hardlink",
+        "sha256": "6f074ebe7b65c8143d379c28d3c963dda8c2dbc73b635adfb0214cd3700be8ac",
+        "sha256_in_prefix": "6f074ebe7b65c8143d379c28d3c963dda8c2dbc73b635adfb0214cd3700be8ac",
+        "size_in_bytes": 1193472
+      },
+      {
+        "_path": "Library/include/netcdf.h",
+        "path_type": "hardlink",
+        "sha256": "0aba52d77eb2d09e9932c5578b1209f12371d59e241a7a555117085d42a6d19d",
+        "sha256_in_prefix": "0aba52d77eb2d09e9932c5578b1209f12371d59e241a7a555117085d42a6d19d",
+        "size_in_bytes": 73256
+      },
+      {
+        "_path": "Library/include/netcdf_aux.h",
+        "path_type": "hardlink",
+        "sha256": "9e81b61921840fa65d4b54ada7d27876a31ea945e1d82cb6a0b03971a9cf2c13",
+        "sha256_in_prefix": "9e81b61921840fa65d4b54ada7d27876a31ea945e1d82cb6a0b03971a9cf2c13",
+        "size_in_bytes": 3670
+      },
+      {
+        "_path": "Library/include/netcdf_dispatch.h",
+        "path_type": "hardlink",
+        "sha256": "6d2aac4793e12c7ae37323be50372cfc6fd814cacaa8b622d101ec20a0e3a7f5",
+        "sha256_in_prefix": "6d2aac4793e12c7ae37323be50372cfc6fd814cacaa8b622d101ec20a0e3a7f5",
+        "size_in_bytes": 13071
+      },
+      {
+        "_path": "Library/include/netcdf_filter.h",
+        "path_type": "hardlink",
+        "sha256": "bfb85f1fe445e7732b361de99a21f8def2f354fe5f5a2a3e440fa119a39c0329",
+        "sha256_in_prefix": "bfb85f1fe445e7732b361de99a21f8def2f354fe5f5a2a3e440fa119a39c0329",
+        "size_in_bytes": 4065
+      },
+      {
+        "_path": "Library/include/netcdf_filter_build.h",
+        "path_type": "hardlink",
+        "sha256": "2792201071bc2038ce029d922bd11a525bedba3ef28223428075ce4475997406",
+        "sha256_in_prefix": "2792201071bc2038ce029d922bd11a525bedba3ef28223428075ce4475997406",
+        "size_in_bytes": 7080
+      },
+      {
+        "_path": "Library/include/netcdf_json.h",
+        "path_type": "hardlink",
+        "sha256": "5db45a76348b3f6e282d518973924382aab8906ca96d99a56a51f3c5429454c7",
+        "sha256_in_prefix": "5db45a76348b3f6e282d518973924382aab8906ca96d99a56a51f3c5429454c7",
+        "size_in_bytes": 32459
+      },
+      {
+        "_path": "Library/include/netcdf_mem.h",
+        "path_type": "hardlink",
+        "sha256": "0bf58dc001590f3bb090fc6ae95c955d566d4ad02ade9474b888310c7528c82f",
+        "sha256_in_prefix": "0bf58dc001590f3bb090fc6ae95c955d566d4ad02ade9474b888310c7528c82f",
+        "size_in_bytes": 1337
+      },
+      {
+        "_path": "Library/include/netcdf_meta.h",
+        "path_type": "hardlink",
+        "sha256": "c299abf70754ca842202c16630c4a43ec971925c0413d873d4c342e14140416a",
+        "sha256_in_prefix": "c299abf70754ca842202c16630c4a43ec971925c0413d873d4c342e14140416a",
+        "size_in_bytes": 3218
+      },
+      {
+        "_path": "Library/lib/cmake/netCDF/netCDFConfig.cmake",
+        "path_type": "hardlink",
+        "sha256": "d3dbfedb1de33d132e4af6c2c473b741692d792416893931e52ec386bc13c12f",
+        "sha256_in_prefix": "d3dbfedb1de33d132e4af6c2c473b741692d792416893931e52ec386bc13c12f",
+        "size_in_bytes": 1860
+      },
+      {
+        "_path": "Library/lib/cmake/netCDF/netCDFConfigVersion.cmake",
+        "path_type": "hardlink",
+        "sha256": "aa73b0c9ec046b13779c059cf5dc4424702003bfc351f48a3cfa88e1e04b5e20",
+        "sha256_in_prefix": "aa73b0c9ec046b13779c059cf5dc4424702003bfc351f48a3cfa88e1e04b5e20",
+        "size_in_bytes": 2827
+      },
+      {
+        "_path": "Library/lib/cmake/netCDF/netCDFTargets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "9d0d8828af4bd36ca14b6545312dc905d066fdbf1d3d98d9aea7fc72b64c4f93",
+        "sha256_in_prefix": "9d0d8828af4bd36ca14b6545312dc905d066fdbf1d3d98d9aea7fc72b64c4f93",
+        "size_in_bytes": 906
+      },
+      {
+        "_path": "Library/lib/cmake/netCDF/netCDFTargets.cmake",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "D:/bld/libnetcdf_1693581668824/_h_env",
+        "sha256": "2e3060f91037b27a6719f0a93efbf85cab4f1f261ca86c1e17e609e93216c35f",
+        "sha256_in_prefix": "74a0e2545f7c3ddaceb3469bfe233fb6f49ad12a4626762175a905f22a385295",
+        "size_in_bytes": 4958
+      },
+      {
+        "_path": "Library/lib/libnetcdf.settings",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "D:/bld/libnetcdf_1693581668824/_h_env",
+        "sha256": "001e01005a140102d88c230eaa59139b3d1dadf23de938dfa85cec5cee4e3645",
+        "sha256_in_prefix": "7ecaedb0e5a3c0b0880467a2f44013ad4cae24f04f8a6ebdc6f622b506b8b5d8",
+        "size_in_bytes": 1581
+      },
+      {
+        "_path": "Library/lib/netcdf.lib",
+        "path_type": "hardlink",
+        "sha256": "f0c234d8090d506992f97c5582c8ba39ca3572744b13450f0ff9eb915669623c",
+        "sha256_in_prefix": "f0c234d8090d506992f97c5582c8ba39ca3572744b13450f0ff9eb915669623c",
+        "size_in_bytes": 204284
+      },
+      {
+        "_path": "Library/lib/pkgconfig/netcdf.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "D:/bld/libnetcdf_1693581668824/_h_env",
+        "sha256": "0ba1015d7e657677524e2aea8dde119cd2d9f4b87991591deadfa4a44624be89",
+        "sha256_in_prefix": "7a25f25a214dd26b8c40182e9a7258e92018aa3522e38ee80144f868c794506a",
+        "size_in_bytes": 643
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "6694fb1a949893178c3e0c7df648f5b9875da5ba9b1d76ec5d9a5bac6647dfc6",
+  "size": 625332,
+  "subdir": "win-64",
+  "timestamp": 1693582445000,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/libnetcdf-4.9.2-nompi_h8284064_112.conda",
+  "version": "4.9.2"
+}

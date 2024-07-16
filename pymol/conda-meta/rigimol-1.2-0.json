@@ -1,0 +1,36 @@
+{
+  "build": "0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/schrodinger/win-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "C:\\Mambaforge\\pkgs\\rigimol-1.2-0",
+  "features": "",
+  "files": [
+    "Library/bin/rigimol.exe"
+  ],
+  "fn": "rigimol-1.2-0.tar.bz2",
+  "license": "Proprietary Schrodinger EULA",
+  "link": {
+    "source": "C:\\Mambaforge\\pkgs\\rigimol-1.2-0",
+    "type": 1
+  },
+  "md5": "0dcf180d460ab6d47a275d164c195912",
+  "name": "rigimol",
+  "package_tarball_full_path": "C:\\Mambaforge\\pkgs\\rigimol-1.2-0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/rigimol.exe",
+        "path_type": "hardlink"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 572831,
+  "subdir": "win-64",
+  "track_features": "",
+  "url": "https://conda.anaconda.org/t/sc-a2280975-4d5c-49ed-badb-f79a6935e80a/schrodinger/win-64/rigimol-1.2-0.tar.bz2",
+  "version": "1.2"
+}

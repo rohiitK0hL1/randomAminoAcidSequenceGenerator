@@ -1,0 +1,167 @@
+/* PYMOL 2.0 DARKSTYLE */
+
+
+/* Main window */
+#extgui,
+QMenuBar,
+QMenuBar::item /* required with Win10+PyQt4 */
+{
+    background:     #343434;
+    color:          #E8E8E8;
+}
+
+QMenuBar::item:selected {
+    background:     #ffffff;
+    color:          #000000;
+}
+
+QLineEdit#command_line
+{
+    background-color:   #3E3E3E;
+    border:             1px solid #494949;
+    color:              #E8E8E8;
+    height:             20px;
+    margin-bottom:      5px;
+    margin-right:       5px;
+}
+
+QLabel#command_label
+{
+    color:               #9b81fd;
+    font-size:           12px;
+    font-weight:         500;
+    padding-left:        7px;
+    padding-bottom:      7px;
+}
+
+QPlainTextEdit#feedback_browser
+{
+    border:             5px solid #222222;
+    border-radius:      10px;
+    background-color:   #222222;
+    color:              #E8E8E8;
+}
+
+QScrollBar#pymol_scroll_bar
+{
+    background:     #222222;
+    border-radius:  10px;
+    border:         5px;
+}
+
+QScrollBar::handle#pymol_scroll_bar
+{
+    background:     #494949;
+}
+
+QScrollBar::sub-line#pymol_scroll_bar
+{
+    border:         none;
+}
+
+QScrollBar::sub-page:vertical#pymol_scroll_bar
+{
+    background: #222222;
+}
+
+QScrollBar::add-page:vertical#pymol_scroll_bar
+{
+    background: #222222;
+}
+
+QScrollBar::add-line#pymol_scroll_bar
+{
+    border:         none;
+}
+
+QScrollBar::up-arrow:vertical#pymol_scroll_bar
+{
+    color: white;
+}
+
+QScrollBar::down-arrow:vertical#pymol_scroll_bar
+{
+    color: white;
+}
+
+#builder QPushButton
+{
+    border:         1px solid #888;
+    border-radius:  3px;
+    padding:        1px 3px;
+}
+
+#builder QPushButton:hover
+{
+    background-color:#cecece;
+    border: 1px solid #606060;
+}
+
+QPushButton:hover[quickbutton=true]
+{
+    background-color:#444;
+    border: 1px solid #60B0DC;
+}
+
+QPushButton:pressed[quickbutton=true]
+{
+    background-color:#666;
+}
+
+QPushButton[quickbutton=true]
+{
+    border:         1px solid #494949;
+    border-radius:  3px;
+    color:          #cecece;
+    padding:        1px 5px;
+}
+
+QMainWindow::separator
+{
+    width:          5px;
+    height:         5px;
+    border:         none;
+    background:     #343434;
+}
+
+QMainWindow::separator:hover
+{
+    background:     #555;
+}
+
+QTabWidget::pane
+{
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+
+QTabWidget::tab-bar#main_tab_bar {
+    left: 0;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+QTabBar::tab:selected#main_tab_bar
+{
+    color: white;
+    background: #343434;
+    }
+
+QTabBar::tab:!selected#main_tab_bar
+{
+    border: 1px solid white;
+    color: #919191;
+    background: #222222;
+    border: 1px solid black
+}
+
+QWidget#bottom_frame
+{
+    background: #222222;
+}
+
+/* vi:ft=css:expandtab:sw=4
+ */

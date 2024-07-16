@@ -1,0 +1,72 @@
+{
+  "build": "0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/schrodinger/win-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "C:\\Mambaforge\\pkgs\\openvr-1.0.17-0",
+  "features": "",
+  "files": [
+    "Library/bin/openvr_api.dll",
+    "Library/include/openvr/openvr.h",
+    "Library/include/openvr/openvr_capi.h",
+    "Library/include/openvr/openvr_driver.h",
+    "Library/lib/openvr_api.lib"
+  ],
+  "fn": "openvr-1.0.17-0.tar.bz2",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Mambaforge\\pkgs\\openvr-1.0.17-0",
+    "type": 1
+  },
+  "md5": "7a339dfcdba309d8e5df0400a721210d",
+  "name": "openvr",
+  "package_tarball_full_path": "C:\\Mambaforge\\pkgs\\openvr-1.0.17-0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/openvr_api.dll",
+        "path_type": "hardlink",
+        "sha256": "e62eaba60d3318d7eb9aea9cec50f47dc9e6c1bc3e9704f57e2533ed04c63fd3",
+        "sha256_in_prefix": "e62eaba60d3318d7eb9aea9cec50f47dc9e6c1bc3e9704f57e2533ed04c63fd3",
+        "size_in_bytes": 592160
+      },
+      {
+        "_path": "Library/include/openvr/openvr.h",
+        "path_type": "hardlink",
+        "sha256": "16bb7c961c07ec2ac6bab0a8038eaa2a7d7d6655390e87f36d11951107874f0c",
+        "sha256_in_prefix": "16bb7c961c07ec2ac6bab0a8038eaa2a7d7d6655390e87f36d11951107874f0c",
+        "size_in_bytes": 220272
+      },
+      {
+        "_path": "Library/include/openvr/openvr_capi.h",
+        "path_type": "hardlink",
+        "sha256": "176170bd55382e63b1f5d09a653626c28c677aa37d13e75cf8e1055fc9f1778e",
+        "sha256_in_prefix": "176170bd55382e63b1f5d09a653626c28c677aa37d13e75cf8e1055fc9f1778e",
+        "size_in_bytes": 125793
+      },
+      {
+        "_path": "Library/include/openvr/openvr_driver.h",
+        "path_type": "hardlink",
+        "sha256": "ba5e8f04cb8682ee2ee944444fc1b35154ef97d81e8e980a2477805d1d5cd1d6",
+        "sha256_in_prefix": "ba5e8f04cb8682ee2ee944444fc1b35154ef97d81e8e980a2477805d1d5cd1d6",
+        "size_in_bytes": 140725
+      },
+      {
+        "_path": "Library/lib/openvr_api.lib",
+        "path_type": "hardlink",
+        "sha256": "c325b28e4c4ac904f93579057c2fecc350b02f5609212b60f656230459860e66",
+        "sha256_in_prefix": "c325b28e4c4ac904f93579057c2fecc350b02f5609212b60f656230459860e66",
+        "size_in_bytes": 6442
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 396089,
+  "subdir": "win-64",
+  "timestamp": 1566935694000,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/t/sc-a2280975-4d5c-49ed-badb-f79a6935e80a/schrodinger/win-64/openvr-1.0.17-0.tar.bz2",
+  "version": "1.0.17"
+}

@@ -1,0 +1,24 @@
+title RIBOSOME
+
+default helix
+
+res ile   phi  -49.1  psi -64.0
+
+res asn   phi  76.7  psi -49.9
+
+res his   phi  -30.1  psi -77.0
+
+res his   phi  84.6  psi -60.2
+
+res tyr   phi  33.5  psi 82.2
+
+res ser   phi  -54.7  psi 8.9
+
+res ile   phi  -30.4  psi 9.4
+
+res glu   phi  53.4  psi 59.3
+
+res lys   phi  88.9  psi 32.1
+
+res asn   phi  45.8  psi 16.9
+

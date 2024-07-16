@@ -1,0 +1,40 @@
+{
+  "build": "0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/schrodinger/win-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "C:\\Mambaforge\\pkgs\\collada2gltf-2.1.4-0",
+  "features": "",
+  "files": [
+    "Library/bin/collada2gltf.exe"
+  ],
+  "fn": "collada2gltf-2.1.4-0.tar.bz2",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Mambaforge\\pkgs\\collada2gltf-2.1.4-0",
+    "type": 1
+  },
+  "md5": "15bad8a1deb449fd3c94ce2980b8e389",
+  "name": "collada2gltf",
+  "package_tarball_full_path": "C:\\Mambaforge\\pkgs\\collada2gltf-2.1.4-0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/collada2gltf.exe",
+        "path_type": "hardlink",
+        "sha256": "09aeb429a2dda4408d8e8f11ffdc31372dc0b748f723c523462b729f0e6d8bcc",
+        "sha256_in_prefix": "09aeb429a2dda4408d8e8f11ffdc31372dc0b748f723c523462b729f0e6d8bcc",
+        "size_in_bytes": 5723136
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 1583782,
+  "subdir": "win-64",
+  "timestamp": 1554114027000,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/schrodinger/win-64/collada2gltf-2.1.4-0.tar.bz2",
+  "version": "2.1.4"
+}

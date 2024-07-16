@@ -1,0 +1,47 @@
+{
+  "build": "default_hf64faad_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "libzlib >=1.2.13,<1.3.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139",
+    "zstd >=1.5.5,<1.6.0a0"
+  ],
+  "extracted_package_dir": "C:\\Mambaforge\\pkgs\\libclang13-18.1.3-default_hf64faad_0",
+  "features": "",
+  "files": [
+    "Library/bin/libclang-13.dll"
+  ],
+  "fn": "libclang13-18.1.3-default_hf64faad_0.conda",
+  "license": "Apache-2.0 WITH LLVM-exception",
+  "link": {
+    "source": "C:\\Mambaforge\\pkgs\\libclang13-18.1.3-default_hf64faad_0",
+    "type": 1
+  },
+  "md5": "9217c37b478ec601af909aafc954a6fc",
+  "name": "libclang13",
+  "package_tarball_full_path": "C:\\Mambaforge\\pkgs\\libclang13-18.1.3-default_hf64faad_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/libclang-13.dll",
+        "path_type": "hardlink",
+        "sha256": "9d48b87b03e28d0436f90140a00978944f8fdc1a73dfadf4d186f9dadf88a9e7",
+        "sha256_in_prefix": "9d48b87b03e28d0436f90140a00978944f8fdc1a73dfadf4d186f9dadf88a9e7",
+        "size_in_bytes": 104117248
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "7ccb5fefe1ca2c8341e402fa726e5b9cea1939feb87b5335b3c4581589ba86d5",
+  "size": 25293651,
+  "subdir": "win-64",
+  "timestamp": 1712568643000,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/libclang13-18.1.3-default_hf64faad_0.conda",
+  "version": "18.1.3"
+}
